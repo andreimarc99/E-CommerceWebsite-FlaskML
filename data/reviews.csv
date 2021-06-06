@@ -1,0 +1,301 @@
+review_id,message,rating,customer_id,product_id
+4,Good phone overall. Big minus battery wise.,3,9,1
+6,Great phone! Would definitely recommend it to anybody.,5,1,1
+12,Good for business.,4,9,3
+13,One of the best phones I've ever used! Totally worth it.,5,1,12
+14,Great laptop for business,5,9,5
+15,"Portable laptop, good battery",4,10,5
+16,Great for mobile development,5,11,5
+17,Not really what I had in mind.,3,12,5
+18,Apple never disappoints!,5,13,5
+19,Great for work.,4,14,5
+20,"Works smoothly, although I was expecting more after I saw its price.",3,15,5
+21,I'm having problems after just 1 week...,1,18,5
+22,Really enjoyable interface and really easy to be carried around,5,19,5
+23,Good battery life,4,20,5
+24,Good laptop,4,23,5
+25,Great!,5,25,5
+26,Great laptop! Totally recommending it,5,26,5
+27,Liked everything about it,5,27,5
+28,Superb!,5,30,5
+29,Happy with it.,4,31,5
+30,Fine laptop.,4,35,5
+31,Overall a good laptop.,4,36,5
+32,Overall a great laptop.,5,36,9
+33,I like it,4,9,9
+34,Poor battery life,3,10,9
+35,Not as good as my DELL Ultrabook,2,11,9
+36,Fantastic,5,12,9
+37,Works well.,4,13,9
+38,Good for gaming,5,14,9
+39,CS:GO running smoothly on it.,5,15,9
+40,Pretty good.,4,17,9
+42,Crashed after 2 weeks.,1,18,9
+43,Battery could be better.,3,19,9
+44,No problems. Good laptop.,5,20,9
+45,Not bad for its price.,4,21,9
+46,Has a lot to offer for its price.,4,22,9
+47,Best laptop for this price range.,5,24,9
+48,Just wow!,5,25,9
+49,Happy about it.,4,27,9
+50,Could be faster but overall a good laptop.,4,28,9
+51,Quality at a good price.,4,30,9
+52,"So far, so good after 2 weeks.",4,31,9
+53,"Perfect for me, I use it for gaming.",5,35,9
+54,Great for gaming.,5,36,9
+55,Great performances!,5,36,6
+56,Great graphics!,5,35,6
+57,"Too expensive, but does its job.",3,34,6
+58,Great graphics card.,5,33,6
+59,Best buy for this price.,5,32,6
+60,Good for gaming and video editing.,4,31,6
+61,Wow best card ever. No comparison with the other cards.,5,30,6
+62,"I own three of these cards already, there was no way that this was going to fool me. The cooler and plastics on this thing, looks like an MSI Seahawk design. As soon as you take it out of the packaging, it was obvious that it was not the right product.",1,29,6
+63,Too expensive,3,28,6
+64,"Card performs very well and can play anything it throw at it on ultra 1440p with high frame rates, but does struggle a bit with 4K ultra. Ray tracing looks amazing, DLSS really depends on the titles. Unfortenately very loud even at 70%.",4,27,6
+65,Way too much for old hardware. What are you going to do next month when you can get a card that out performs this card for $499?,1,26,6
+66,Awesome card. Can run everything smoothly,5,25,6
+67,I do recommend it if it is what you are needing.,5,24,6
+68,"Great card, can run anything.",5,23,6
+69,Outdated tech; overpriced.,1,22,6
+70,"Great Card, I love it. Better then every card on the Market besides the Titan and 3080",5,21,6
+71,"A super good card. It was delivered to me two days ago. It's exactly as I expected. Perfect. The price (even at a discount) is not low, but if you can afford to buy it, you are not disappointed with the performance in games.",5,20,6
+72,Beautiful. Too bad it only lasted 2 weeks before it died. Spent 1 hour at the Apple store for them to not have a replacement. Apple also refused to ship the new one to my house 5 hours from the nearest Apple store. I’ll be returning it to Amazon.,1,11,8
+73,"It's an iPad that replaced my 2nd gen iPad that wouldn't do all my apps anymore. I like the extra storage. Definitely faster than old iPad when it comes to apps I use for work. Battery life, not so great.",5,12,8
+74,The device display is black within one week of getting it now I have to contact apple and I didn’t like it.,1,13,8
+75,"This is a great tablet. It’s fast and the battery lasts a long time. My only issue is a small one, and that’s that the bezels are so narrow that I find my fingers accidentally touching the screen and causing some unwanted action.",5,14,8
+76,"Best service ever. iPad Air is the best tablet I could ever buy. This iPad is faster than any other iPad, I’m loving it.",5,15,8
+77,This is my first iPad since the first one... And wow has Apple stepped up their game let me tell you! I’ve used every single Android tablet out there and this one beats them all hands down.,4,16,8
+78,"I am a graduate student so I ended up purchasing the 256 gb model and I am so glad I did. I needed a tablet for easy note taking and e-textbooks but I didn’t want to spend $1,000+ on an iPad Pro.",5,17,8
+79,Very disappointing. I’ll be looking elsewhere the next time I need to buy a tablet.,1,18,8
+122,"HDD bad, 5400rpm HDD is extremely slow by the value could be a HDD of 7200rpm",4,9,10
+80,"Similar to many others, my screen went blue after just a short period of time (what some call “the blue screen of death”) and I couldn’t even restart it.",3,19,8
+81,"I highly recommend it for travel, reading and light computer work.",5,20,8
+82,The iPad Air has problems with the touchscreen locking up. Do not buy it!,2,21,8
+83,"Battery life is good; it is small, although I prefer the ipad mini to be honest. Same iterative design from Apple; what we are used to, after all, since 2012.",4,22,8
+84,Seems like a waste of money so far.,1,23,8
+85,"I bought this as an upgrade to an iPad I bought about 8 years ago. I really like the new model. For me, the Air was the perfect compromise. It's super fast for my purposes but not as expensive as the Pro line. ",5,24,8
+86,"I’m glad I purchased the Air over the normal iPad. I feel like this is the best bang for your buck. It’s also incredibly pleasant to hold, which I didn’t expect.",5,25,8
+87,"I purchased this in hopes that I could replace my 2012 Macbook Air. This iPad air has so many issues, I do not know where to start.",1,27,8
+88,This iPad definitely deserves five stars.,5,28,8
+89,"My biggest objection is despite the slightly larger screen, Apple only uses about 95% of it. Why say this is a 10.25 screen when it seems to use the same space as my 9.7 inch IPad?",4,29,8
+90,This is a cautionary note. I ordered iPad Air with WiFi & Cellular. The product description does not mention cellular carriers nor does the purchase process ask.,3,30,8
+91,"IPads have come a long ways since I started using my Gen 4 iPad a few years ago. This iPad Air is smooth, quick and probably has more features than I’ll ever use for years to come.",5,31,8
+92,Screen blinks black on Facebook. Crashes when I’m online. Upgraded from iPad three but it feels like a downgrade.,1,33,8
+93,"My first iPad and I love it! I bought the pencil too but I rarely use it. You have to pair it each time you turn the iPad on, which is annoying.",5,35,8
+94,It is everything I had hoped it would be and more. No more being stuck on a computer. I can create high level art from the comfort of my bed or take it on the road!,5,35,7
+95,Good Tablet but the picture quality is lagging the competitors.,3,1,7
+96,"I have a Microsoft Surface ProX, it's good, but I had to get a new iPad for work, it does the job for me, and very fast. No regrets!",5,9,7
+97,The speakers not as good as advertised.,4,10,7
+98,I really love it!,5,11,7
+99,Fast shipping & items exactly as described! Also purchased the Apple Pencil. Was a bit skeptical at first but no problems what so ever. Glad I purchased especially at a small discounted price.,5,12,7
+100,I am extremely disappointed! No plastic all over it and the box inside the amazon box was opened!!!! Especially with the current VIRUS going on this is unacceptable!,1,13,7
+101,What a piece of junk in a pretty package. The touch screen performance is like traveling 10 years back in time and the software is unintuitive and clunky. Apple has lost the usability war.,1,14,7
+102,Such a beautiful piece of technology.,5,15,7
+103,"Best note-taking device. USB-c everything, please. It makes file management much easier.",4,16,7
+104,"The Ipad Pro is perfect. I had no issues setting it up. I absolutely love it, and the Apple stickers it came with. This is also a few bucks cheaper than buying it from Apple.",5,17,7
+105,Best iPad of any brand on the market.,5,18,7
+106,Avoid if you already own a 3rd gen ipad pro 2018.,4,19,7
+107,I'm happy to use it when I draw and music and surfing the web. I recommend a case too! And screen protector!,4,20,7
+108,"The iPad would not keep a connection. I could not get any assistance on the issue from Apple's online help, given they have a hard rule that they do not have issue, so troubleshooting was next to impossible.",1,21,7
+109,When I’m connecting Bluetooth headphones keyboard and Apple Pencil the iPad become very hot and starting lagging,1,22,7
+110,Love it but not as good as my MacBook,5,23,7
+111," I suppose I will have to buy a separate stand to use the iPad Pro vertically, so I can simultaneously use the keyboard. Ugh. Otherwise, it is amazing!",4,24,7
+112,I enjoyed using it for the first couple of days then it started occasionally to freeze up but would resume functioning after restarting. Apple's tech support was not able to solve it.,2,25,7
+113,"I watched endless YouTube reviews and actually having it in my hands is much different. You can instantly feel the 120 hertz, that is fast.",5,26,7
+114,"This is the replacement for my beloved and dependable iPad Air 2. Am amazed at the technology and advances. Really, this is more than a few generations newer; it’s a phenomenon in itself.",5,27,7
+115,Best iPad ever! I’ve owned iPads before but didn’t use them that much except for watching videos on flights. This one married with the magic keyboard is my everyday accessory.,5,28,7
+116,I have no issues with the tablet just Apps that only work in portrait mode like instagram. My only regret is that I got the 612GB and not the 1TB.,5,29,7
+117,"It does everything! Makes a great extra monitor for teaching live online classes, reading, photo and slide editing, coloring, entertainment on TV and movies, I bought the Procreate app and GoodNotes app.",5,30,7
+118,"Hate facial recognition. Not much faster than my 2nd generation, home button is more convenient than swipe. Very disappointed.",3,32,7
+119,"This is a great device, a premium product, and I recommend it to anyone who is looking for an Apple tablet with a larger screen, faster processing, better cameras, battery, so on and so on.",5,33,7
+120,I love the screen size. I am using this as a whiteboard for my online teaching. It's working great so far. The battery lasts me at least one day.,5,35,7
+121,The look of the product is not that great! (at least I don't like it that much). But the performace that you get for this price is really good!,5,1,10
+230,Poor quality product.,2,26,1
+123,"This offers a great price for what you get. There are plenty of upgrade options to make it better too. Overall, I am satisfied with this product.",5,10,10
+124,It's everything I wanted and easy to swap out what I wanted to. I upgraded the main drive to NvME and the secondary to ssd. Also upgraded to 32gb RAM. This thing is a beast.,5,11,10
+125,This was not advertised as a refurbished product so we ended up sending it back. Also took forever for it to arrive. Not impressed.,1,12,10
+126,Second Lenovo gaming PC I have bought. Bad experience with first one -- refurbished-- but thought the reviews on this one (new) would make a difference.,1,13,10
+127,Gaming and school computer. Had to get Greek squad to fix motherboard and stuff a month after I bought it. Works well now.,3,14,10
+128,"The laptop battery was damaged, it only lasts for me 1:30 hrs on and without requiring effort to the card or the processor.",2,15,10
+129, It works beautifully with the 500gb ssd I put in(yes while keeping the 1tb hdd in for extra storage) and 32 gb of ram.,5,16,10
+130,"Shipping got delayed due to a problem with DHL. Other than that everything works great. Only drawback is, It comes with realtek wifi not the Intel one",5,17,10
+131,It's pretty good for a 850$ budget laptop for gaming but I just wish it has better battery life but other than that is a perfect laptop,5,18,10
+132,It's pretty good for a 850$ budget laptop for gaming but I just wish it has better battery life but other than that is a perfect laptop,5,19,10
+133,I purchased 4 of these. 3 failed in 18 months,1,20,10
+134,Sensational screen!,5,21,10
+135,Could have been better for this price.,4,22,10
+136,A bit expensive. Expected more.,3,24,10
+137,I love it!,5,27,10
+138,Perfect for gaming.,5,28,10
+139,Good for gaming.,4,29,10
+140,Definitely a good laptop.,5,31,10
+141,Best buy.,5,33,10
+142,Best buy.,5,33,18
+143,"Overpriced, I just could not find anything to fit my i9-9900k",4,32,18
+144,"Too expensive paid triple the price thanks to gpu shortage, great card all around",2,30,18
+145,"Great card. Spent more than I wanted. But I'm rendering 480p at 1100+ fps, 1080p at 170+ fps, and 4k soon to come! Gaming has also been pretty incredible on some older games. ",5,29,18
+146,"I managed to bag one of these at retail price. The card itself is pretty bulky but I guess that goes for most of the RTX series cards. In terms of noise and heat, it is on the low side.",5,28,18
+147,"Been gaming on it for a few days, temperature is good.",5,27,18
+148,Not glad that I hade to pay double MSRP for it but it is a HUGE upgrade compared to my 1050 ti.,5,26,18
+149,"I mean its a RTX 3060. its great, other than the price.",5,25,18
+150,It’s alright.,5,24,18
+151,Don't pay more than retail for these cards,1,23,18
+152,Great GPU so far,5,22,18
+153,These cards are a huge investment into your personal and financial future. Use them to game! Use them to mine! Or sell them and make your money back. This is a no brainer.,5,21,18
+154,It is almost impossible to get your hands on one of these for a decent price right now. 4 stars because I need you guys to meet the market demand.,4,20,18
+155,Good,4,19,18
+156,STOP buying these cards at this price your only making it worse don't let them rob us.,1,18,18
+157,Thank you.,5,17,18
+158,$2000 for a $500 card,1,16,18
+159,Great,5,15,18
+160,Way too expensive.,3,14,18
+161,Price is just too much!,2,12,18
+162,"Phone works really well, it’s larger than my S8. I haven’t really used the device much because I’m not able to use my Sim Card on this device.",5,12,3
+163,I understand it is a renewed phone and I think I got a dud. The phone would shut itself off whenever it wanted. Got a cheaper S10 instead and waiting for the next-gen of phones to come out.,1,11,3
+164,I am very much exited and very very happy with the phone.,5,13,3
+165,The focus of the camera is the worst ever! Even my old OnePlus 2 does a better focusing job.,2,14,3
+166,I would recommend this renewed phone to anyone looking for an android upgrade.,5,15,3
+167,"Best phone ever. Awesome camera, battery lasts forever, just love everything.",5,16,3
+168," It functions perfectly, the glass is spotless front and back.",5,17,3
+169,"Price was right, not one issue.",4,18,3
+170,"I recently purchased two of these phones, for my boyfriend and myself, and it is exactly what I expected from the galaxy line.",4,19,3
+171,What a nice phone! I have been a long time Samsung customer,5,20,3
+172,This phone was NOT fully unlocked. Still has the last persons logged in and its locked out. Came without a code to get started.,1,21,3
+173,This Phone is amazing the fingerprint reader and everything works like a charm. 100% urge to buy this product.,5,22,3
+174,The phone is just perfect,5,23,3
+175,"Worked right out of the box after a software update. Good condition, no scratches. Arrived ahead of schedule.",5,24,3
+176,What an amazing deal!,5,25,3
+177,"It's giant... wish it was smaller with the same equipment, the fingerprint reader only works half the time.",4,26,3
+178,"A great phone.. not a scratch, scrape or bump on it. Unfortunately, it didn't work on my network. It was not GSM friendly",3,27,3
+179,Very hard to find good tempered glass screen protectors for it! My next phone will have a flat screen!!,4,30,3
+229,Have been using iPhone since 5 years now. This one is really a next level up.,5,27,1
+180,"Phone was delivered early. Phone is as advertised, all works well. Phone will be better & better as system updates come out.",5,31,3
+181,Bought this phone 2 months ago and the motherboard is shot. The phone will not leave airplane mode. I highly suggest not buying this phone because nobody will do anything about it.,1,32,3
+182,Works perfect. Just as it should,5,34,3
+183,Great phone and great camera.,5,35,3
+184,"The picture quality and the overall speed are significantly better than the 2009 version, but it is lacking the wireless keyboard, the CD/DVD drive and the 1 TB hard drive. I hope it will last for 11 years, like my old one did.",4,35,4
+185,"I'm a Mac devotee for decades. When I felt it time to replace my old iMac from 2009, I purchased this model not realizing that the built in storage was limited to only 256 GB so beware. Unimaginable that such limited storage is being sold in 2020.",2,1,4
+186,"It was not easy to download Microsoft products or things like Calendar Creator. There is no apparent telephone help, so be sure to have your favorite nerd by your side.",4,9,4
+187, I'm happy to say the iMac is still the best looking and one of the best preforming desktop computers on the market.,5,10,4
+188,"I love the big screen and the crisp, sharp images. It is fast, delightful, and such a great upgrade from a 13 inch screen. But what is worse than seeing your high-end product actually doesn't deliver the promised beauty?",4,11,4
+189,"Love the quality of the screen, it was easy to migrate our old computer onto this one. Just wish apple products weren’t so expensive but quality usually is.",4,12,4
+190,Thickness is just the right size and the value for the money is right on time.,5,13,4
+191,Good value.,5,14,4
+192,I have not had a single problem with viruses since I got it! Which is the main reason I took the plunge. Big bright screen is a plus.,5,15,4
+193,Awesome computer. The high resolution display is so much better than my 2013 iMac. The SSD solid state storage is lightening quick.,5,16,4
+194,"Computer is very slow, and I hadn’t even downloaded anything on it. I called tech support and they wanted me to reset it to factory settings.",1,17,4
+195,The display is beautiful and sharp.,5,18,4
+196,If you have a lot of photos you may need more storage!,4,19,4
+197,"I replaced my old 2011 Mac computer, with this one and difference is like night and day! It's super fast and has all the bells and whistles that I will ever need.",5,20,4
+198,I purchased as a gift for my father and he had to go back and forth to the Apple store to get computer unlocked.,2,21,4
+199,I bought this for my mom and she loves it.,5,22,4
+200,I’m ready to work from home with my awesome computer! Love it!,5,23,4
+201,Works with no problem,5,24,4
+202,Awesome computer! Lightning fast!,5,25,4
+203,I liked the computer but my complaint was with the packaging. Thankfully Apple did a great job with their packaging.,4,28,4
+204,"This is not a ranting review, it's friendly advice that would save you some money and time.",1,9,12
+205,About to return the product. Really disappointed.,1,10,12
+206,Product is good except camera. Oxygen Os is not upto the mark this time. Seems they haven't done proper testing on android 11.,3,11,12
+207,"Great phone, upgraded from OnePlus 6.",5,12,12
+208,"If you are into photography and need best cameras on your phone, it's NOT for you. Even the Samsung S20 has better cameras at a similar price point. Other than that, this is the best phone in this price range if you are okay with no wireless charging.",4,13,12
+209,Classic Oneplus product as you'd expect from a flagship killer aka non flagship device.,4,14,12
+210,Worst Mobile. Shame on OnePlus. Worst display quality. Worst camera quality,1,15,12
+211,Awesome phone... camera quality little bit goes down after first update 11.01.,5,17,12
+212,The aquamarine green looks better than images. The display is butter smooth,5,18,12
+213,"Camera is the major weak point of this phone,just like it was for OnePlus 8.",4,19,12
+214,I think this is best mobile you can buy in this price range.,5,20,12
+215,Battery is horribly gone wrong. Do not risk wasting your money on this product. Totally waste of your money.,2,21,12
+216,It is an absolute beast. The aquamarine green looks amazing in the real world.,5,22,12
+217,"Charging speed is good, battery backup and camera is average, issue in dynamic range, no night mode in front camera,needs to improve in camera, software issue also there, gallery recalculats every time all photos of the albums.",3,23,12
+218,"Phone is good in all the features, Liked it a lot till now except the Battery Backup is not at all good if you are a continuous user of Mobile for complete whole day, you need to charge it twice/thrice a day.",3,24,12
+219,The phone is excellent in performance and call quality. Gaming in it is amazing and exciting.,4,25,12
+220,Everything is great about the phone except the heating issue. It became quite hot during initial setup and remains warm on normal usage also all the time at the top railing and around camera.,2,26,12
+221,Superb in this price segment.,5,27,12
+222,"At this Price Point You wont get a better Phone with SD865, Fast Charging, Great display, Oxygen OS smoothness and a lot more.",5,29,12
+223,Best phone of 2020 for 46k range.,4,30,12
+224,"With 120Hz refresh rate, gaming performance too smooth at high Quality also, Premium feeling, full metal body, we can use it without back cover also, battery improved after latest update.",5,31,12
+225,Seriously Fast...,5,32,12
+226,Good phone.,4,32,1
+227,Best picture and photo clarity. Battery and the phone are great,5,35,1
+228,I love this phone. Using last 2 months,5,36,1
+231,Badly dissapointed by Apple Phone and service,1,25,1
+232,"Best phone ever, camera is best, I love iPhone, better than any phone in the world",5,26,1
+233,One problem i can say is that it gets a bit warm while usage of the phone for more than half an hour. Other than that its a great phone,4,24,1
+234,Comes with the wrong adapter. Otherwise a nice phone.,2,23,1
+235,"As per most observations by critics, Silver looks better than grey.",5,22,1
+236,Looks really nice and premium. Price is very high and one should wait for offer season.,4,21,1
+237,Go for Iphone X blindly as Iphone XS & XR are just copy of X with few advancements that doesn't make much difference.,5,20,1
+238,"The phone is simply awesome- The display, the smoothness, the feel in the hand is so premium. But what really annoys is lack of Fast charger and its cable is Cheap quality.",4,19,1
+239,"Great, just great.",5,17,1
+240,Not a value for money. Too much expensive.,2,15,1
+241,iPhone X is like no other phone out there. Is a manifesto go-to phone for premiumness. Class apart in a nutshell.,5,13,1
+242,"I had an iphone 6s, i wanted to upgrade it so i thought to give it a try and i think it was a good idea. Screen is large and the notch. I love it.",5,12,1
+243,The phone is faulty.. do not buy this product. It heats up so fast so that we can’t even hold it in our hand.,2,10,1
+244,"As yet another G Pro user, I am extremely happy with this mouse.",5,9,13
+245,"Favorite mouse shape (owned a G Pro since release). The mouse clicks are a bit heavier than the pro, the middle mouse click is lighter with scroll steps being more defined, and the side buttons have a small increase in travel.",4,10,13
+246,"I'm not a gamer really, but got the G305 because I was tired of using mediocre mice and saw some good reviews of this one. It also looks clean and not insane on my desk like a lot of gaming mice.",5,11,13
+247,"Logitech has always been known for their wireless keyboards and mice, and this one is no exception.",5,12,13
+248,"After using this wireless mouse and really feeling the performance difference, I can never go back to regular mice again.",5,14,13
+249,Don't buy this mouse. After a few months of use it started to intermittently double click when the mouse button was pushed once. I uninstalled and reinstalled latest drivers- that did not resolve the issue.,1,15,13
+250,"Great mouse, I wish it was price-reduced like the black version but I'll pay extra for white.",5,16,13
+251,The shape and poor weight distribution is what ended up having me return it. If logitech could come out with a lightweight G403 that isn't an elephant like the G703 that would be my go to..,3,17,13
+252,"his is the first Logitech mouse I've ever owned that, in my opinion, is worth money.",4,18,13
+253,"I wouldn't recommend this mouse if you work long hours with your mouse/if you have more choices. My hand began to cramp after one day, so now I'm having to switch back and forth between this and my old mouse, even when that one causes lags.",4,19,13
+254,"Very nice having mouse, though it can get a bit picky on surfaces, it isn't quite like an MX mouse yet but that's ok.",5,20,13
+255,"This is a good mouse. However, it didn't work out for me because I have mobility and muscle issues.",4,21,13
+256,This thing is amazing.,5,22,13
+257,"The mouse is fairly basic, which isn't a bad thing. Clicking takes so little pressure that I often misclick.",4,28,13
+258,"This mouse is incredible if you don't care about a bunch of RGB lighting and such. The only thing I recommend, and this is PURELY preference, is to get a AAA battery adapter and use a AAA instead of the AA.",5,29,13
+259,Buy it. Great mouse shape.,5,31,13
+260,I've been using this mouse since June 2019 and I have nothing but praise for Logitech.,5,32,13
+261,The best thing about it is weight. It's surprisingly light unlike other wireless mouses.,5,33,13
+262,This mouse has an extremely ergonomic design that fits my medium sized hands incredibly well.,5,35,13
+263,"Assuming it holds up, this is an endgame mouse, no question.",5,35,14
+264,Trust me. This is the most precise mouse you will buy at the moment until the other brands try to copy it.,5,36,14
+265,The mouse will not fully charge. Also the mouse buttons have lateral movement making them overlap at times. This makes one mouse click actuate the other.,2,33,14
+266,"It basically feels like a wired mouse, no lag at all, with one annoying exception. When CPU is under heavy load, the cursor may slow down and then accelerate suddenly",4,32,14
+267,I never thought I would want to use a wireless mouse for FPS gaming but the GPW has proven me wrong.,5,31,14
+268,"As much as I love the weight, feeling, and tracking this mouse provides I can not even remotely recommend it.",2,30,14
+269,"This is my favorite mouse. I own one of the original deathadders, deathadder elite, G502, G Pro and now the G Pro wireless.",5,29,14
+270,This mouse would be the best mouse in the world if it didn't develop a double clicking issue 3 months after receiving it. ,2,28,14
+271,"Logitech has pushed the boundaries of wireless gaming mouse. It's only 80g, long battery life, and the overall design is fantastic.",5,27,14
+272,"I am very disappointed, I thought it was the best mouse in the world, but after three months of use, a double click appeared, you can now just throw it in the trash",2,26,14
+273,Logitech has done an outstanding job manufacturing a wireless competitive gaming mouse. I personally will never be sold on the idea of a wireless mouse being better than a wired one,5,25,14
+274,"This mouse is WAY too expensive, but I use a mouse so much I felt justified in the expense and I do not regret my decision. I really like this mouse.",5,24,14
+275,Look. It's a good mouse. The battery life is reasonable. This thing is light and ambidextrous with customizable side buttons. But you just can't escape the double click apocalypse.,3,22,14
+276,"I love this mouse. The weight, shape, and feel are perfect.",5,21,14
+277,Double click issue!,2,19,14
+278,"This is one seriously awesome mouse! Words cannot describe how comfortably it fits under my hand, and for a wireless mouse it's very lightweight too.",5,17,14
+279,"Love the mouse, too bad it double clicks 15 days out of box can't hold or drag anything on your screen without clicking.",1,16,14
+280,Rival 600 is the most fantastic mouse I have ever put my oversized hands on. It immediately felt great and it just molded to my hand so well.,5,16,15
+281,Brand new this mouse is amazing. Only complaint was no braided cable.,1,10,15
+282,"If Steelseries every makes a lighter, more straight forward version of the Rival 600 without the unnecessary third mouse button, removable sides, extra weight system, etc. I'd go to that in a heartbeat.",4,11,15
+283,"I purchased the Rival 600 a few days ago, I've had it for a couple of days now and wow. I am using this mouse to play Overwatch, CSGO and Battle Field One -- My in game accuracy has in-fact improved.",5,12,15
+284,This is a pretty sweet little mouse. I'm really enjoying using it so far. ,4,13,15
+285,Biggest con is the side pads.,3,14,15
+286,"This mouse fit the bill- great shape, adjustable weights (I like a heavier mouse), tons of configuration options (DPI, polling rate, color scheme)",5,15,15
+287,It's unfortunate because I've really enjoyed the mouse for gaming. It was super great for shooters and mobas...until it wasn't.,2,16,15
+288,"VERY comfortable, excellent texture on hard and rubber components, EXCELLENT feedback on click/buttons, perfect layout (G9x-good!). excellent tracking on mousepad, leather surfaces, and desk.",5,20,15
+289,You'll get 12 hours of usage from just a 10 minute charge too!,5,21,15
+290,"After a month of using this i really do like the mouse. It is a bit pricey but it has great battery life, great grip, and cool lighting features!",5,22,15
+291,The thumb buttons aren't well placed. The software will only let you have 2 sensitivity settings.,3,23,15
+292,"The mouse is precise and smooth, and it looks cool. I'd buy it again for sure.",4,24,15
+293,"The mouse works, but tracking is awful. The mouse jumps on screen. Small movements are impossible. The mouse often jumps from one place to another.",1,25,15
+294,"I'm not saying this mouse is bad, if you like it then great! But I was definitely not satisfied with using this mouse for a long period of time because for the price of this mouse, there was many other options.",3,26,15
+295,"I have been using this mouse for more than 1 year. The side grip rubber pad failed in less than 1 year, and SteelSeries support sent me a new set of side grips. The longevity of the mouse is questionable.",4,27,15
+296,"I highly recommend, I love this mouse, and I expect it to last for many years to come.",5,29,15
+297,"I had this mouse for about a year-ish but unfortunately, its build quality is not good, its a 90$ gaming mouse, and they dont make it so the grips are put on tightly?!",3,31,15
+298,"The company claims the best feature of the mouse is the lift off feature. The way is suppose to work is every time you lift your mouse, you barely see any movement on the screen when gaming.",3,34,15
+299,Great PC for this price. Totally recommending it!,5,24,16
+300,Decent PC.,4,19,16
+301,"Good PC, could have been cheaper as I later found it cheaper elsewhere.",4,15,16
+302,Expected more.,3,12,16
+303,Perfect for gaming.,5,36,16
+304,High-end PC. Love it. Perfect for gaming and rendering.,5,32,17
+305,Perfect for high-end setups.,5,28,17
+306,Was expecting a bit more for this price.,3,25,17
+307,Decent.,4,23,17
+308,Overall a good PC.,5,19,17
+309,"If price was a bit lower, it would have been ideal.",4,15,17
+310,Great deal.,5,12,17
